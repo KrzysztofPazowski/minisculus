@@ -17,7 +17,7 @@ Plan
 
 1)	Refactor obeying the current Minisculus Challenge rules.
 
-2)	Plug into .NET MVC3 framework.
+2)	Plug into .NET MVC3 framework: http://krzysztofpazowski.com/Minisculus
 -	Encode any string, user selects first and second wheel positions 
 -	Decode any string, user inserts a guess word
 -	The wheel rules are the same as in the Minisculus Challenge ( first – forward, second – twice backward, third – depends on second, forward)
